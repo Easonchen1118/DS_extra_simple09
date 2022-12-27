@@ -1,5 +1,5 @@
 #include <stdio.h>
-//計算正整數被3整除之數值之總和
+//計算正整數被3整除之數值之總和https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30751
 int main(){
     int num;
     int ans = 0;
